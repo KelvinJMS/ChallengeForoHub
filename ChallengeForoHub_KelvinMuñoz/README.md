@@ -7,7 +7,7 @@ Esta aplicación utiliza Spring Framework para la creación y seguridad de endpo
 Cada tópico creado por los usuarios se guarda en una base de datos MySQL. Cuando un usuario consulta o actualiza un tópico, se muestra el nombre del autor de la creación o actualización. Por último, un usuario puede borrar un tópico, pero para mantener la integridad de la base de datos y la persistencia de los datos, este borrado es solo de forma lógica.
 
 ## Instalación
-1. [Descargue o clone el proyecto.](https://github.com/BFBacchi/Foro_Hub_Alura.git)
+1. Descargue el proyecto
 2. Inicie el proyecto en el IDE de su preferencia.
 3. Instale las dependencias necesarias desde el archivo pom.xml.
 4. Configure las propiedades del proyecto.
